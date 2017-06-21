@@ -13,14 +13,7 @@ class HeroImages extends React.Component {
     axios.get(`../../dummydata.json`)
     .then(res => {
       const data = {}
-      // data.widgets = res.data[0].acf.widgets;
-      // data.date = res.data[0].date;
-      // data.author = res.data[0];
-      // data.category = res.data[0].acf.category.name;
-      // data.sell = res.data[0].acf.sell;
-      // data.title = res.data[0].title.rendered;
-      data.heroImage = res.data[0].acf.hero_images[0].url;
-
+      data.sell = res.data[0].acf.sell;
       this.setState({ data });
       console.log(data);
     })
@@ -32,7 +25,7 @@ class HeroImages extends React.Component {
   render() {
     return (
       <div>
-        <img src={this.state.data.heroImage} />
+        <img src={this.state.data.sell} />
       </div>
     );
   }
