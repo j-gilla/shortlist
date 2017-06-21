@@ -13,6 +13,7 @@ class HeroImages extends React.Component {
   componentDidMount() {
     axios.get(`../../dummydata.json`)
     .then(res => {
+
       const images = res.data[0].acf.hero_images[0].url;
       this.setState({ images });
       console.log(images);
@@ -22,14 +23,22 @@ class HeroImages extends React.Component {
     });
   }
 
+  // renderImgae(images){
+  //   return (
+  //     <div>
+  //       <img src={images}/>
+  //     </div>
+  //   )
+  //
+  // }
 
   render() {
     return (
       <div>
         <h1>Hero Images</h1>
-          <ul>
-            {this.state.images}
-          </ul>
+        <ul>
+          <img src={this.state.images} />
+        </ul>
       </div>
     );
   }
