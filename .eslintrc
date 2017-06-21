@@ -30,7 +30,7 @@
         "eqeqeq": 2,
         "no-useless-call": 1,
         "eol-last": 2,
-        "quotes": [2, "double"],
+        "quotes": [1, "single" ],
         "react/jsx-uses-vars": 2,
         "react/jsx-uses-react": 2
     },

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import HeroImages from './HeroImages.jsx';
 
+
+
 class App extends React.Component {
 
   render() {
