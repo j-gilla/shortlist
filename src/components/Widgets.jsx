@@ -14,8 +14,6 @@ class Widgets extends React.Component {
     .then(res => {
       const data = {}
        data.widgets = res.data[0].acf.widgets[0].paragraph;
-
-
       this.setState({ data });
       console.log(data);
     })
@@ -23,11 +21,11 @@ class Widgets extends React.Component {
       console.log(error);
     });
   }
-
+  
   render() {
     return (
       <div>
-        <p>{this.state.data.widgets}</p>
+        <p>{this.state.data.widgets} </p>
       </div>
     );
   }
