@@ -1,0 +1,3079 @@
+[
+  {
+    "id": 285,
+    "date": "2017-05-17T10:11:46",
+    "date_gmt": "2017-05-17T10:11:46",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=285"
+    },
+    "modified": "2017-05-17T10:11:46",
+    "modified_gmt": "2017-05-17T10:11:46",
+    "slug": "managing-complexity",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/engineering/managing-complexity/285",
+    "title": {
+      "rendered": "Managing complexity"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 286,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      13
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Managing complexity",
+      "sell": "Doing more with less",
+      "category": {
+        "term_id": 13,
+        "name": "Engineering",
+        "slug": "engineering",
+        "term_group": 0,
+        "term_taxonomy_id": 13,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 2,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 286,
+          "id": 286,
+          "title": "Auto Draft",
+          "filename": "auto-draft.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft.jpg",
+          "alt": "Auto Draft",
+          "author": "2",
+          "description": "",
+          "caption": "",
+          "name": "auto-draft",
+          "date": "2017-04-27 08:48:38",
+          "modified": "2017-04-27 08:48:48",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1972,
+          "height": 1314,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-300x200.jpg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-768x512.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-1024x682.jpg",
+            "large-width": 1024,
+            "large-height": 682,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-1680x1120.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/04/27084839/auto-draft-1680x840.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>The fanout of requirements and accruing of tech debt is endemic to any technology-led organisation.</p>\n<p>Here’s a short presentation we presented at a recent tech event</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "embed",
+          "embed": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://slides.com/ecoad/doing-more-with-less/embed\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div>",
+          "caption": "",
+          "width": "medium",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/285"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=285"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/285/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/286"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=285"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=285"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=285"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "date": "2017-04-05T10:45:03",
+    "date_gmt": "2017-04-05T10:45:03",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=265"
+    },
+    "modified": "2017-05-17T10:49:32",
+    "modified_gmt": "2017-05-17T10:49:32",
+    "slug": "hiring-senior-data-product-engineer",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/careers/hiring-senior-data-product-engineer/265",
+    "title": {
+      "rendered": "Hiring: Senior Data Product Engineer"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 1,
+    "featured_media": 267,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Hiring: Senior Data Product Engineer",
+      "sell": "We’re working on brilliant things. Friendly, passionate, and inquisitive minds required.",
+      "category": {
+        "term_id": 10,
+        "name": "Careers",
+        "slug": "careers",
+        "term_group": 0,
+        "term_taxonomy_id": 10,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 4,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 267,
+          "id": 267,
+          "title": "Hiring: Senior Data Product Engineer",
+          "filename": "hiring-senior-data-product-engineer.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer.jpg",
+          "alt": "Hiring: Senior Data Product Engineer",
+          "author": "1",
+          "description": "",
+          "caption": "",
+          "name": "hiring-senior-data-product-engineer",
+          "date": "2017-04-05 10:44:48",
+          "modified": "2017-04-05 10:44:55",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1600,
+          "height": 1067,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-300x200.jpg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-768x512.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-1024x683.jpg",
+            "large-width": 1024,
+            "large-height": 683,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-711x1067.jpg",
+            "portrait-width": 711,
+            "portrait-height": 1067,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-1600x1067.jpg",
+            "landscape-width": 1600,
+            "landscape-height": 1067,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/04/05104448/hiring-senior-data-product-engineer-1600x800.jpg",
+            "letterbox-width": 1600,
+            "letterbox-height": 800
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Shortlist Media (Holborn, London) is a market leading independent publisher who initially made their name with ShortList and Stylist magazines. We are now entering an exciting phase of new digital only launches.  This is a fantastic career opportunity to join us as at this stage, as we’ll be drawing on our newly formed inhouse creative development team to marry up industry-leading editorial, design and technology. We are firmly setting our sights on delivering truly original, creative and fun products.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Summary",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<ul>\n<li>Senior back end developer with a sprinkling of full-stack experience, to be based on-site in our London office (EC1)</li>\n<li>5+ years professional brand or agency-side experience</li>\n<li>You will be integral to the upcoming products that we are kicking off in the next few months. Lots of exciting tech ahead! 🔭</li>\n<li>Work on our in house data platform, extracting data from various 3rd party services and transforming it into various analytics, and reporting tools</li>\n<li>Grow our fledgling pack of micro-services, work on APIs for content, mapping, AI powered content analysis and more</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "About you",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<ul>\n<li>You’re a passionate web developer with the majority of your experience with server-side programming skills</li>\n<li><b>PHP</b>: Having worked with a range of modern frameworks such as <b>Laravel 5</b> (preferable), Symfony 2/3 or similar</li>\n<li>WordPress makes up part of our tech stack, so experience here is ideal. </li>\n<li>Ideally have some knowledge of <b>NodeJS</b> and JavaScript scripting. If not, you’ve been keen to learn! As this will make up more of our products over the next few months.</li>\n<li>You take web performance very seriously and know how to tune the application until its buttery-smooth while managing code complexity.</li>\n<li>Experience of working on large-ish codebases, not just short-term microsite/campaigns</li>\n<li>Ideally have mentored juniors and managed contractors</li>\n<li>DevOps: AWS, Linux, networking knowledge is a bonus</li>\n<li>You will love to collaborate and talk to through solutions</li>\n<li>You will have great written and verbal communication skills.</li>\n<li>A solid, confident ability to make a splendid cup of tea if it’s your round</li>\n<li>You have your finger on the pulse within the tech industry, are excited about shiny new things, but are prudent to not necessarily <i>recode all the things.</i></li>\n<li>Lastly, we want you to be very passionate about what you do, and produce the best in class products. We’ve got some exciting products coming up that we’ll want to put our name to.</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Package",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>You’ll be eligible for;</p>\n<ul>\n<li>Flexible working hours and occasional remote working</li>\n<li>Budget to purchase your own hardware</li>\n<li>Personal training budget to go on conferences all over the world. We went to Chicago (An Event Apart) last year!</li>\n<li>Child-care vouchers</li>\n<li>Cycle-to-work scheme.</li>\n<li>Company pension scheme</li>\n<li>Some beverages in the pub on a Friday on the company’s card</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Our brands",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>You can read all about award winning magazines, websites, events, and email brands <a href=\"http://www.shortlistmedia.co.uk/about-us/\" target=\"_blank\">we run here</a>, but the part of the business you’d be joining works like this: </p>\n<ul>\n<li>Shortlist Media’s Digital Office is <a href=\"http://www.timeout.com/london/blog/14-reasons-to-go-to-leather-lane-ec1-093016\" target=\"_blank\">just off foodie heaven</a> of Leather Lane, with a 50 strong team of full time developers, social media experts, video producers (with studio), editorial staff. marketing and promotions people</li>\n<li>Where it’s attending our own events like <a href=\"http://live.stylist.co.uk/\" target=\"_blank\">Stylist Live</a> (for Fashion fans) & this one for <a href=\"https://nationalburgerday.co.uk/\" target=\"_blank\">Burger fans</a>, or going to film premiers and bar openings - there is never a dull moment here.</li>\n<li>We do work hard though, we launched 19 projects off our own publishing platform in 2016, and a plan to relaunch our main titles in 2017… so make a name for yourself by joining the team!</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Contact us",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Let us know who you are, what you’re looking for, and we’ll see what can be done: <a href=\"mailto:i.might.be.interested@shortlist.com\" target=\"_blank\">i.might.be.interested@shortlist.com<br />\n            </a></p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/265"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=265"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/265/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/267"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=265"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=265"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=265"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "date": "2017-03-31T16:45:11",
+    "date_gmt": "2017-03-31T16:45:11",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=252"
+    },
+    "modified": "2017-04-04T11:37:37",
+    "modified_gmt": "2017-04-04T11:37:37",
+    "slug": "le-training-day-2017",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/news/le-training-day-2017/252",
+    "title": {
+      "rendered": "Le Training Day 2017"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 253,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Le Training Day 2017",
+      "sell": "Our annual flagship hackathon returns!",
+      "category": {
+        "term_id": 1,
+        "name": "News",
+        "slug": "news",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 2,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 253,
+          "id": 253,
+          "title": "Le Training Day 2017",
+          "filename": "le-training-day-2017.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017.jpg",
+          "alt": "Le Training Day 2017",
+          "author": "2",
+          "description": "",
+          "caption": "",
+          "name": "le-training-day-2017",
+          "date": "2017-03-31 16:07:42",
+          "modified": "2017-03-31 16:07:47",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 2048,
+          "height": 1536,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-300x225.jpg",
+            "medium-width": 300,
+            "medium-height": 225,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-768x576.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 576,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-1024x768.jpg",
+            "large-width": 1024,
+            "large-height": 768,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-1680x1120.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31160743/le-training-day-2017-1680x840.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>It’s one of the brightest days in the tech team’s calendar: our annual all-team 24hr hackathon. The location? Paris, to honour the spiritual birthplace of our publishing platform, Croissant (although I’m told, its actually of Austrian decent).</p>\n<p>With the advent of our latest product, Tapestry, we wanted to show off its ability to create new brands with novel functionality. </p>\n<p>Tapestry, for want of a full blog post, is a JavaScript/React renderer of our Croissant publishing platform. It allows us to work at (comparatively) breakneck speeds, with great agility! More details to follow.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 261,
+            "id": 261,
+            "title": "Le Training Day 2017 5",
+            "filename": "le-training-day-2017-6.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6.jpg",
+            "alt": "Le Training Day 2017 5",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "le-training-day-2017-6",
+            "date": "2017-04-04 11:37:25",
+            "modified": "2017-04-04 11:37:29",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 1424,
+            "height": 1424,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-300x300.jpg",
+              "medium-width": 300,
+              "medium-height": 300,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-768x768.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 768,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-1024x1024.jpg",
+              "large-width": 1024,
+              "large-height": 1024,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-1424x949.jpg",
+              "landscape-width": 1424,
+              "landscape-height": 949,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/03/04113726/le-training-day-2017-6-1424x712.jpg",
+              "letterbox-width": 1424,
+              "letterbox-height": 712
+            }
+          },
+          "caption": "<p>Travelling at 300km/h. Wifi speeds less impressive</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>It was an unceremoniously early start for the gang. But having split in to two competing teams, the desire to win helped shake off that 7AM feeling.</p>\n<p>With internet connectivity struggling, somewhat comedic moments were the group trying to recall parts of various JavaScript library APIs.</p>\n<p>Pulling in to Gare du Nord, both teams had paper wireframes, a non-synced Trello board, and some hacky code which had not yet been executed.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 255,
+            "id": 255,
+            "title": "Le Training Day 2017 2",
+            "filename": "le-training-day-2017-3.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3.jpg",
+            "alt": "Le Training Day 2017 2",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "le-training-day-2017-3",
+            "date": "2017-03-31 16:28:59",
+            "modified": "2017-03-31 16:29:05",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 1754,
+            "height": 1316,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-300x225.jpg",
+              "medium-width": 300,
+              "medium-height": 225,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-768x576.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 576,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-1024x768.jpg",
+              "large-width": 1024,
+              "large-height": 768,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-1680x1120.jpg",
+              "landscape-width": 1680,
+              "landscape-height": 1120,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31162900/le-training-day-2017-3-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>The team assemble</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Arriving at the coworker space the teams unleash in to a flurry of getting content in the CMSes (#content-first).</p>\n<p>All the while project managers whipping up backlogs into Trello boards (we came up with VMVP - very minimum viable product).</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 257,
+            "id": 257,
+            "title": "Le Training Day 2017 3",
+            "filename": "le-training-day-2017-4.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4.jpg",
+            "alt": "Le Training Day 2017 3",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "le-training-day-2017-4",
+            "date": "2017-03-31 16:44:11",
+            "modified": "2017-03-31 16:44:15",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 1536,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-300x225.jpg",
+              "medium-width": 300,
+              "medium-height": 225,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-768x576.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 576,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-1024x768.jpg",
+              "large-width": 1024,
+              "large-height": 768,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-1680x1120.jpg",
+              "landscape-width": 1680,
+              "landscape-height": 1120,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/03/31164412/le-training-day-2017-4-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>Glasses of black coffee. Nothing else until we’ve launched our products.</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>By the day’s end we had a fully fledged technical prototype from one of the teams, even complete with suprisingly advanced features! One being adaptive content tailoring, where the user’s browsing behaviour (both passive and implicit) builds up a filtered/sorted content list tailored to them.</p>\n<p>The other team ran into third-party library snafus which really sank a lot of the dev time. However the concept is certainly strong enough to warrant some extra hours hacking.</p>\n<p>Back at the ranch (our office in Holborn that no-one refers to as <i>ranch</i>) the following week we’ll have a further tinker before presenting it back to the wider teams for consideration of advancing further, and of course crowning a hackathon winner. The prize? A well earned lunch and well sought commendation!</p>\n<p>I could not be prouder of what we managed to cram in to a day’s work. The creative use of the time, ability to flex the tools we’ve been working earnestly on, opportunities to skill swap, pair program/design, and launch an proof of concept combine to a heck of an efficient day. The 18 hours sure do take it out of you though - just the once a year thanks.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 259,
+            "id": 259,
+            "title": "Le Training Day 2017 4",
+            "filename": "le-training-day-2017-5.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5.jpg",
+            "alt": "Le Training Day 2017 4",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "le-training-day-2017-5",
+            "date": "2017-04-03 16:55:39",
+            "modified": "2017-04-03 16:56:21",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 1536,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-300x225.jpg",
+              "medium-width": 300,
+              "medium-height": 225,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-768x576.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 576,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-1024x768.jpg",
+              "large-width": 1024,
+              "large-height": 768,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-1680x1120.jpg",
+              "landscape-width": 1680,
+              "landscape-height": 1120,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2017/03/03165540/le-training-day-2017-5-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>Some of the team sink in to Aperol Spritz to unload the rapid prototyping</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>If you’d like to join the Shortlist Studio team <a href=\"mailto:i.might.be.interested@shortlist.com\" target=\"_blank\">do let yourself be known</a> as Le Trip 2018 has another good few seats of various skilled developers to fill.</p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/252"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=252"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/252/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/253"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=252"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=252"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=252"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "date": "2017-02-13T14:04:26",
+    "date_gmt": "2017-02-13T14:04:26",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=155"
+    },
+    "modified": "2017-06-05T18:11:01",
+    "modified_gmt": "2017-06-05T18:11:01",
+    "slug": "hiring-front-end-developer",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/careers/hiring-front-end-developer/155",
+    "title": {
+      "rendered": "Hiring: Front-end developer"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 168,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Hiring: Front-end developer",
+      "sell": "We’re working on brilliant things. Friendly, passionate, and inquisitive minds required.",
+      "category": {
+        "term_id": 10,
+        "name": "Careers",
+        "slug": "careers",
+        "term_group": 0,
+        "term_taxonomy_id": 10,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 4,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 168,
+          "id": 168,
+          "title": "Hiring: Front-end developer 1",
+          "filename": "hiring-front-end-developer-3.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3.jpg",
+          "alt": "Hiring: Front-end developer 1",
+          "author": "2",
+          "description": "",
+          "caption": "",
+          "name": "hiring-front-end-developer-3",
+          "date": "2016-10-24 15:23:42",
+          "modified": "2017-01-11 15:14:24",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 2048,
+          "height": 1366,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-300x200.jpg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-768x512.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-1024x683.jpg",
+            "large-width": 1024,
+            "large-height": 683,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-1680x1120.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24152343/hiring-front-end-developer-3-1680x840.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Shortlist Media Ltd (Holborn, London) is a market leading independent publisher who initially made their name with ShortList and Stylist magazines. We are now entering an exciting phase of new digital only launches. This is a fantastic career opportunity to join us as at this stage, we’ll be drawing on our newly formed in-house creative development team to marry up industry-leading editorial, design and technology. We are firmly setting our sights on delivering truly original, creative and fun products.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Summary",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>We’re looking for a brilliant front-end developer to join our growing digital team at Shortlist. Great JavaScript skills, a real understanding of modern front-end best practices and a passion to create fantastic products are great attributes to have. ShortList and Stylist are key brands in our portfolio and we need someone to take the lead on a large swathe of the sub-products they run on: a bespoke story-telling product; a JavaScript app which organises dynamic content from various APIs; a modern ad platform stack; and performance testing and monitoring to ensure our pages are performant across devices and conditions. While you have will some key focuses, you are part of the team of front-end dev roles which will switch around on to other brands and new launches coming up.\n<ul>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "About you",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<ul>\n<li>You’re a great JavaScript developer with experience in ES6 and beyond, comfortable picking up new APIs and working with new technologies. Mastering JS is long road but we just need you to be well on your way!</li>\n<li>You have good experience with React or similar modern JS frameworks, ideally with server-side rendering, common design patterns and performance.</li>\n<li>You’ve had experience with writing CSS at scale in a clean, readable and maintainable manner.</li>\n<li>You’ll have interacted with, and can read, server-side scripting languages like PHP (WordPress) or Ruby (Rails).</li>\n<li>You have worked on sizeable codebases with multiple contributors, not only small campaigns or micro-sites.</li>\n<li>You’re comfortable with tools like Git and have worked with common version-control methodologies like the feature-branch workflow.</li>\n<li>You should know about the critical path to rendering a page and have an interest in tools and techniques to speed up performance.</li>\n<li>It would be beneficial to have some experience in working with ad code libraries such as Google DFP, however this is just an async JS library that can be taught.</li>\n<li>You have great verbal and written communication skills, especially with non-technical people. Part of this role will be regularly collaborating with the commercial team to create bespoke long-form content, and you’ll likely be working closely with UI and UX designers so good communication is key!</li>\n<li>You’ll have at least 3 years experience at a professional agency or working in-house.</li>\n<li>Lastly, we want you to be very passionate about what you do, and produce the best in class, award winning products!</li>\n</ul>\n<ul>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Package",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Working in EC1 with great people you’ll play a key role in relaunching award winning media brands. You’ll be eligible for:</p>\n<ul>\n<li>Flexible working hours and occasional remote working</li>\n<li>Possibility of a personal training budget to go on conferences all over the world. Last year the team went to Chicago!</li>\n<li>Child-care vouchers</li>\n<li>Cycle-to-work scheme</li>\n<li>Company pension scheme</li>\n<li>Adore the latest generation of computer hardware? Pick your own work machine that you work best with</li>\n<li>Come Friday 4pm you may see some refreshing beverages doing the rounds!</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Our brands",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>You can read all about award winning magazines, websites, events, and email brands <a href=\"http://www.shortlistmedia.co.uk/about-us/\" target=\"_blank\">we run here</a> but the part of the business you’d be joining works like this:</p>\n<ul>\n<li>We have an office dedicated to our digital products just off foodie heaven in <a href=\"http://www.timeout.com/london/blog/14-reasons-to-go-to-leather-lane-ec1-093016\" target=\"_blank\">Leather Lane</a>, with a 50 strong team of developers, designers, editors, video producers and social media experts.</li>\n<li>With our own events like <a href=\"http://live.stylist.co.uk\" target=\"_blank\">Stylist Live</a> for Fashion fans, <a href=\"http://nationalburgerday.co.uk\" target=\"_blank\">National Burger Day</a> for Burger fans or film premiers and bar openings, there is never a dull moment here.</li>\n<li>We work hard, launching 19 projects off our own publishing platform in 2016 and plan to relaunch our main titles in 2017, make a name for yourself by joining the team!</li>\n</ul>\n<ul>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Contact us",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Get in touch with us, let us know who you are and what you’re looking for:  <a href=\"mailto:i.might.be.interested@shortlist.com\" target=\"_blank\">i.might.be.interested@shortlist.com<br />\n            </a></p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/155"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=155"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/155/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/168"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=155"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=155"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=155"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "date": "2016-11-15T15:48:24",
+    "date_gmt": "2016-11-15T15:48:24",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=211"
+    },
+    "modified": "2016-11-15T16:19:36",
+    "modified_gmt": "2016-11-15T16:19:36",
+    "slug": "ux-is-dead-long-live-ux",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/news/ux-is-dead-long-live-ux/211",
+    "title": {
+      "rendered": "UX is dead, long live UX!"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 35,
+    "featured_media": 213,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "UX is dead, long live UX!",
+      "sell": "Shortlist attended UX Brighton earlier this month to hear from an interesting, diverse group of speakers.",
+      "category": {
+        "term_id": 1,
+        "name": "News",
+        "slug": "news",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 2,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 213,
+          "id": 213,
+          "title": "UX is dead, long live UX!",
+          "filename": "ux-is-dead-long-live-ux.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux.jpg",
+          "alt": "UX is dead, long live UX!",
+          "author": "35",
+          "description": "",
+          "caption": "",
+          "name": "ux-is-dead-long-live-ux-2",
+          "date": "2016-11-08 17:46:24",
+          "modified": "2017-01-10 20:45:15",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1152,
+          "height": 1536,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-225x300.jpg",
+            "medium-width": 225,
+            "medium-height": 300,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-768x1024.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 1024,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-768x1024.jpg",
+            "large-width": 768,
+            "large-height": 1024,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-1152x768.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/11/08174625/ux-is-dead-long-live-ux-1152x576.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Here are a few take-aways from the conference.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Happiness",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Happiness, purpose and job-satisfaction were all common themes among the talks, <a href=\"https://nicmarks.org/\" target=\"_blank\">Nic Marks</a> in-particular spoke at length about his methods of accurately logging employee satisfaction. It’s easy to underrate the complexity of this task, something that Dave Snowden also mentioned towards the end of the day. I enjoyed his <a href=\"https://happinessworks.com/fiveways/\" target=\"_blank\">5 ways to happiness at work</a>, a simple set of tasks to improve personal happiness.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Jobs to be done",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p><a href=\"https://blog.intercom.com/author/sillyjilly_uxr/\" target=\"_blank\">Jillian Wells</a>, a Senior Product Researcher at Intercom talked about her UX background and her move to Intercom, with the Jobs-to-be-done methodology heavily influencing her decision. She spoke about the benefits over traditional user stories, removing the assumptions we can easily make about our audience and focusing instead on the specific tasks they need to accomplish. Less “persona -> action -> outcome” and more “context -> motivation -> outcome”. It’s a technique we definitely want to apply in the near future, Jillian’s writing and others on <a href=\"https://jtbd.info/\" target=\"_blank\">jtbd.info</a> will really help.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Autonomy, Mastery and Purpose",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Daniel Pink’s “Autonomy, Mastery and Purpose” was mentioned multiple times by <a href=\"http://clagnut.com/\" target=\"_blank\">Richard Rutter</a> and <a href=\"http://www.thepurposelab.uk/\" target=\"_blank\">Jenni Lloyd</a>, a simple set of guidelines to enable greater job satisfaction.</p>\n<p>Autonomy is the ability to be self-directed, employees are far more likely to be engaged in their work if they are driven by their own interests rather than an external incentive. Mastery is the urge to get better at something, providing employees the time to improve their skill-set rewards not only the organisation but the individual, it’s fun and satisfying to get better at something.</p>\n<p>As monetary incentives were found not to improve performance, purpose became a stronger driver for employees. Once an employee is paid enough to not worry about income, working for a company with values personally aligned to your own are far more likely to get you up in the morning and racing to work.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Version control",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p><a href=\"http://alicebartlett.co.uk/\" target=\"_blank\">Alice Bartlett</a>, Origami platform lead at the Financial Times, gave an engaging run through of Git and the benefits it can bring. I think there’s a lot to gain in really understanding why certain tools are used in our workflow, simple and engaging explanations like this help to reduce the barrier between the technical and creative teams.</p>\n<p>There’s a definite need to incorporate version control across other non-technical areas of a project, like our designs, prototypes or project documentation. Apps like <a href=\"https://www.abstractapp.com/\" target=\"_blank\">Abstract</a> and plugins such as <a href=\"https://github.com/mathieudutour/git-sketch-plugin\" target=\"_blank\">Git Sketch Plugin</a> can hopefully ease the transition into fully version-controlled projects.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Complexity",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Professor <a href=\"http://cognitive-edge.com/\" target=\"_blank\">Dave Snowden</a> rounded out the day with an incredible talk, discussing complexity in social systems and contextually how it applies to our work environments. It’s probably best if I don’t try to concisely sum up the wealth of information he presented, instead head over to <a href=\"http://cognitive-edge.com/wp-content/uploads/2016/11/2016-11-UX-Brighton.pdf\" target=\"_blank\">cognitive-edge.com</a> to read through the slides.\n            </p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "3",
+      "related_lists": [
+        {
+          "ID": 7,
+          "post_author": "1",
+          "post_date": "2016-07-22 13:44:30",
+          "post_date_gmt": "2016-07-22 13:44:30",
+          "post_content": "",
+          "post_title": "Most recent (system default)",
+          "post_excerpt": "",
+          "post_status": "publish",
+          "comment_status": "closed",
+          "ping_status": "closed",
+          "post_password": "",
+          "post_name": "most-recent-current-content-type-and-category",
+          "to_ping": "",
+          "pinged": "",
+          "post_modified": "2016-07-22 13:44:30",
+          "post_modified_gmt": "2016-07-22 13:44:30",
+          "post_content_filtered": "",
+          "post_parent": 0,
+          "guid": "http://shortliststudio.foundry.press/list/most-recent-current-content-type-and-category/",
+          "menu_order": 0,
+          "post_type": "list",
+          "post_mime_type": "",
+          "comment_count": "0",
+          "filter": "raw"
+        }
+      ],
+      "related_manual_posts": [
+        {
+          "ID": 112,
+          "post_author": "2",
+          "post_date": "2016-10-04 11:23:06",
+          "post_date_gmt": "2016-10-04 11:23:06",
+          "post_content": "",
+          "post_title": "Come build next generation products with us!",
+          "post_excerpt": "",
+          "post_status": "publish",
+          "comment_status": "closed",
+          "ping_status": "closed",
+          "post_password": "",
+          "post_name": "hiring",
+          "to_ping": "",
+          "pinged": "",
+          "post_modified": "2016-10-24 14:54:25",
+          "post_modified_gmt": "2016-10-24 14:54:25",
+          "post_content_filtered": "",
+          "post_parent": 0,
+          "guid": "http://shortliststudio.foundry.press/?p=112",
+          "menu_order": 0,
+          "post_type": "post",
+          "post_mime_type": "",
+          "comment_count": "0",
+          "filter": "raw"
+        }
+      ],
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/211"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/35"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=211"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/211/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/213"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=211"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=211"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=211"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "date": "2016-11-07T15:19:01",
+    "date_gmt": "2016-11-07T15:19:01",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=205"
+    },
+    "modified": "2017-04-05T11:18:10",
+    "modified_gmt": "2017-04-05T11:18:10",
+    "slug": "hiring-senior-platform-engineer",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/careers/hiring-senior-platform-engineer/205",
+    "title": {
+      "rendered": "Hiring: Senior Platform Engineer"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 165,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Hiring: Senior Platform Engineer",
+      "sell": "We’re working on brilliant things. Friendly, passionate, and inquisitive minds required.",
+      "category": {
+        "term_id": 10,
+        "name": "Careers",
+        "slug": "careers",
+        "term_group": 0,
+        "term_taxonomy_id": 10,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 4,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 165,
+          "id": 165,
+          "title": "Hiring: Designer (UI/UX) 1",
+          "filename": "hiring-designer-uiux-3.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3.jpg",
+          "alt": "Hiring: Designer (UI/UX) 1",
+          "author": "2",
+          "description": "",
+          "caption": "",
+          "name": "hiring-designer-uiux-3",
+          "date": "2016-10-24 14:47:21",
+          "modified": "2017-04-05 11:18:08",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 2048,
+          "height": 1366,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-300x200.jpg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-768x512.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-1024x683.jpg",
+            "large-width": 1024,
+            "large-height": 683,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-1680x1120.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24144721/hiring-designer-uiux-3-1680x840.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Shortlist Media (Holborn, London) is a market leading independent publisher who initially made their name with ShortList and Stylist magazines. We are now entering an exciting phase of new digital only launches.  This is a fantastic career opportunity to join us as at this stage, as we’ll be drawing on our newly formed inhouse creative development team to marry up industry-leading editorial, design and technology. We are firmly setting our sights on delivering truly original, creative and fun products.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Summary",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<ul>\n<li>Senior back end developer with a sprinkling of full-stack experience, to be based on-site in our London office (EC1)</li>\n<li>5+ years professional brand or agency-side experience</li>\n<li>You’ll be the lead on our core platform that powers 10+ sites, and ~1M users per month, and looking to scale up over the year</li>\n<li>The apps and services in development at the moment are at the cutting edge of technology. What you’ll be joining in on will be a great career move. 🔭</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "About you",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<ul>\n<li>You’re a passionate web developer with the majority of your experience with server-side programming skills</li>\n<li>PHP: Having worked with a range of modern frameworks such as Laravel 5 (preferable), Symfony 2/3 or similar</li>\n<li>NodeJS and WordPress make up part of our tech stack, so experience here is ideal. </li>\n<li>You take web performance very seriously and know how to tune the application until its buttery while managing code complexity.</li>\n<li>Experience of working on large-ish codebases, not just short-term microsite/campaigns</li>\n<li>Ideally have mentored juniors and managed contractors</li>\n<li>DevOps: AWS, Linux, caching strategies, networking knowledge is a bonus</li>\n<li>You will love to collaborate and talk to through solutions</li>\n<li>You will have great written and verbal communication skills.</li>\n<li>A solid, confident ability to make a splendid cup of tea if it’s your round</li>\n<li>You have your finger on the pulse within the tech industry, are excited about shiny new things, but are prudent to not necessarily <i>recode all the things.</i></li>\n<li>Lastly, we want you to be very passionate about what you do, and produce the best in class products. We’ve got some exciting products coming up that we’ll want to put our name to.</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Package",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>You’ll be eligible for;</p>\n<ul>\n<li>Flexible working hours and occasional remote working</li>\n<li>Budget to purchase your own hardware</li>\n<li>Personal training budget to go on conferences all over the world. We went to Chicago (An Event Apart) last year!</li>\n<li>Child-care vouchers</li>\n<li>Cycle-to-work scheme.</li>\n<li>Company pension scheme</li>\n<li>Some beverages in the pub on a Friday on the company’s card</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Our brands",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>You can read all about award winning magazines, websites, events, and email brands <a href=\"http://www.shortlistmedia.co.uk/about-us/\" target=\"_blank\">we run here</a> but the part of the business you’d be joining works like this: </p>\n<ul>\n<li>Like a Start Up with already successful brands we have a Digital Office <a href=\"http://www.timeout.com/london/blog/14-reasons-to-go-to-leather-lane-ec1-093016\" target=\"_blank\">just off foodie heaven</a> of Leather Lane with a 50 strong team of full time developers, social media experts, video producers (with studio) plus marketing and promotions people.</li>\n<li>Be it our own live events like <a href=\"http://live.stylist.co.uk/\" target=\"_blank\">Stylist Live</a> for Fashion fans or this one for <a href=\"https://nationalburgerday.co.uk/\" target=\"_blank\">Burger fans</a> or going to film premiers and bar openings there is never a dull moment here.</li>\n<li>We do work hard though, launching 19 projects off our own publishing platform in the 2016 so far and plan to relaunch our main titles in 2017… so make a name for yourself by joining the team!</li>\n</ul>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Contact us",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Let us know who you are, what you’re looking for, and we’ll see what can be done: <a href=\"mailto:i.might.be.interested@shortlist.com\" target=\"_blank\">i.might.be.interested@shortlist.com<br />\n            </a></p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/205"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=205"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/205/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/165"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=205"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=205"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=205"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "date": "2016-10-24T15:48:51",
+    "date_gmt": "2016-10-24T15:48:51",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=171"
+    },
+    "modified": "2016-10-27T16:54:01",
+    "modified_gmt": "2016-10-27T16:54:01",
+    "slug": "emerald-street",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/case-studies/emerald-street/171",
+    "title": {
+      "rendered": "Emerald Street"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 173,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      2
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Emerald Street",
+      "sell": "Alright, Manchester? We’ve given Emerald Street a spruce-up while we launch in the North West",
+      "category": {
+        "term_id": 2,
+        "name": "Case Studies",
+        "slug": "case-studies",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 3,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 173,
+          "id": 173,
+          "title": "Emerald Street",
+          "filename": "emerald-street.jpg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street.jpg",
+          "alt": "Emerald Street",
+          "author": "2",
+          "description": "",
+          "caption": "",
+          "name": "emerald-street-9",
+          "date": "2016-10-24 15:40:38",
+          "modified": "2017-01-10 12:19:33",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1680,
+          "height": 1120,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-256x256.jpg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-300x200.jpg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-768x512.jpg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-1024x683.jpg",
+            "large-width": 1024,
+            "large-height": 683,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-720x720.jpg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-720x1080.jpg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street.jpg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154039/emerald-street-1680x840.jpg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Emerald Street is growing up today, not only has it launched a regionalised version in Manchester, but also the main site has got new clothes. While we’ve got an exciting roadmap of improvements coming up over the next few sprints I’ll show you around where we are at the moment.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 177,
+            "id": 177,
+            "title": "Emerald Street 3",
+            "filename": "emerald-street-4.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4.jpg",
+            "alt": "Emerald Street 3",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "emerald-street-4",
+            "date": "2016-10-24 15:49:33",
+            "modified": "2016-10-24 15:49:37",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 1114,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-300x163.jpg",
+              "medium-width": 300,
+              "medium-height": 163,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-768x418.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 418,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-1024x557.jpg",
+              "large-width": 1024,
+              "large-height": 557,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-1671x1114.jpg",
+              "landscape-width": 1671,
+              "landscape-height": 1114,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154934/emerald-street-4-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "large",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Map",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>In the background of this project launch we’ve been chipping away at an Emerald Street map. Each day writers for the email visit some of the best, newest and most hidden of haunts. We knew we had to <i>mapify</i> this. There’s more to do but it’s coming along at quite a pace.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 176,
+            "id": 176,
+            "title": "Emerald Street 2",
+            "filename": "emerald-street-3.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3.jpg",
+            "alt": "Emerald Street 2",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "emerald-street-3",
+            "date": "2016-10-24 15:49:23",
+            "modified": "2016-10-24 15:51:56",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 982,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-300x144.jpg",
+              "medium-width": 300,
+              "medium-height": 144,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-768x368.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 368,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-1024x491.jpg",
+              "large-width": 1024,
+              "large-height": 491,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-655x982.jpg",
+              "portrait-width": 655,
+              "portrait-height": 982,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-1473x982.jpg",
+              "landscape-width": 1473,
+              "landscape-height": 982,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24154924/emerald-street-3-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>Kojawan - one of said gems found on the map, your mouth will thank you</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "large",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Reading experience",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 183,
+            "id": 183,
+            "title": "Emerald Street 4",
+            "filename": "emerald-street-5.gif",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5.gif",
+            "alt": "Emerald Street 4",
+            "author": "2",
+            "description": "",
+            "caption": "",
+            "name": "emerald-street-5",
+            "date": "2016-10-24 16:07:19",
+            "modified": "2016-10-24 16:07:19",
+            "mime_type": "image/gif",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 909,
+            "height": 603,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-256x256.gif",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-300x199.gif",
+              "medium-width": 300,
+              "medium-height": 199,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-768x509.gif",
+              "medium_large-width": 768,
+              "medium_large-height": 509,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5.gif",
+              "large-width": 909,
+              "large-height": 603,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-603x603.gif",
+              "square-width": 603,
+              "square-height": 603,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-402x603.gif",
+              "portrait-width": 402,
+              "portrait-height": 603,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-905x603.gif",
+              "landscape-width": 905,
+              "landscape-height": 603,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/24160719/emerald-street-5-909x455.gif",
+              "letterbox-width": 909,
+              "letterbox-height": 455
+            }
+          },
+          "caption": "<p>Not pictured - lots of small adjustments</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "large",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>We wanted the great editorial that appears in the email to be given first-class treatment on the web, something which has long been on our wish list.</p>\n<p>It was a good opportunity to critique legibility, spacing, layouts, more spacing, vertical rhythm and the like. We clubbed together our favourite publishers for reading and got dissecting the bits that worked for us. </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Over the hill",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Pushing the go-live button is really satisfying and all but its the start of the journey. We’ll be listening to our audience who will determine our roadmap (although secretly hoping they’ll ask for much more of the <a href=\"http://www.emeraldstreet.com/map\" target=\"_blank\">map</a>). </p>\n<p>We’ll be running all sorts of testing from classic split-testing to random hallway testing of poor passers by. But we’re most excited about <a href=\"https://www.intercom.com/\" target=\"_blank\">Intercom</a>; it’s a direct dial from our users to our team’s slack channel. </p>\n<p>Check it out: <a href=\"http://emeraldstreet.com\" target=\"_blank\">emeraldstreet.com</a></p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/171"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=171"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/171/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/173"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=171"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=171"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "date": "2016-10-04T11:23:06",
+    "date_gmt": "2016-10-04T11:23:06",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=112"
+    },
+    "modified": "2016-10-24T14:54:25",
+    "modified_gmt": "2016-10-24T14:54:25",
+    "slug": "hiring",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/careers/hiring/112",
+    "title": {
+      "rendered": "Come build next generation products with us!"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 2,
+    "featured_media": 135,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "Come build next generation products with us!",
+      "sell": "We’re working on brilliant things. Friendly, passionate, and inquisitive minds required.",
+      "category": {
+        "term_id": 10,
+        "name": "Careers",
+        "slug": "careers",
+        "term_group": 0,
+        "term_taxonomy_id": 10,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 4,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 135,
+          "id": 135,
+          "title": "Build next generation digital products for some of the UK’s biggest media brands",
+          "filename": "build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands.jpeg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands.jpeg",
+          "alt": "Build next generation digital products for some of the UK’s biggest media brands",
+          "author": "1",
+          "description": "",
+          "caption": "",
+          "name": "build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands",
+          "date": "2016-10-10 10:12:10",
+          "modified": "2016-10-10 10:12:13",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1800,
+          "height": 1200,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-256x256.jpeg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-300x200.jpeg",
+            "medium-width": 300,
+            "medium-height": 200,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-768x512.jpeg",
+            "medium_large-width": 768,
+            "medium_large-height": 512,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-1024x683.jpeg",
+            "large-width": 1024,
+            "large-height": 683,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-720x720.jpeg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-720x1080.jpeg",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-1680x1120.jpeg",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/10101211/build-next-generation-digital-products-for-some-of-the-uks-biggest-media-brands-1680x840.jpeg",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": false,
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Our Shortlist Studio team is looking for passionate creative technologists (devs & designers). We frequently have open positions ranging from intern level to senior so do get in contact to register an interest in hearing more.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "In a nutshell",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "pull-quote",
+          "text": " A creative & innovative multi-discipline team delivering brilliant products & engaging brands",
+          "position": "center",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>From one person who works in this industry to another: I can say we’ve got a good thing going on here. This is a creative industry and your job should allow you to be so. You have the ability to come in and make it yours, from project inception to the point where you’re picking up industry awards.</p>\n<p>We’re fairly flat in organisational structure, some people manage code, some manage people. Apathy to changing technology is of course not tolerated; our current technology stack should compare well against our larger peers.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Open positions",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<h3>Midweight front-end/creative-technologist</h3>\n<p>If you describe yourself as ~45% modern JavaScript enthusiast, ~45% <i>eye-for-design-n-make-it-look-great</i>, and finally: ~10% all round great person to work with - then you might be curious to know we’re looking for you. </p>\n<p>We do like to bake React in to a lot of our projects so if you haven’t used this in production we want you to have used it in a pet project or two. Alongside that, a couple of year’s usage of nice, modern, JS and CSS frameworks, a professional git workflow,and some basic terminal skills will set you will. If you can read a Gulp/Grunt/Webpack file, and have a total passion for our industry and the craft. Then email us right this second.</p>\n<h3>UI Designer</h3>\n<p>Over the coming year we’re planning a few launches; of which we’ll place a strong and creative aesthetic front and centre. We’re in the process of defining this role but do get in contact if you’d like to hear more. </p></p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Diversity and inclusion",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>As you are hopefully aware, both the tech and publishing industries have a problem with staff representation in this area. It should go without saying, but we strive to have the teams that make up Shortlist Media as diverse and inclusive as they should be. </p>\n<p>Our combined backgrounds and perspectives go a long way to shaping the ingenuity of our company and its products. To put it simply - our publications cater heavily for Londoners, residents of the most diverse capital city in the world, and we’re fortunate enough to work with two of the UK’s biggest women’s brands. We need people that are passionate about creating for those audiences.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "Contact us",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Let us know who you are, what you’re looking for, and we’ll see what can be done: <a href=\"mailto:i.might.be.interested@shortlist.com\" target=\"_blank\">i.might.be.interested@shortlist.com</a></p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/112"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=112"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/112/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/135"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=112"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=112"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "date": "2016-10-03T21:45:48",
+    "date_gmt": "2016-10-03T21:45:48",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=86"
+    },
+    "modified": "2016-11-04T13:52:54",
+    "modified_gmt": "2016-11-04T13:52:54",
+    "slug": "improve-laravel-5-performance-with-aws-sqs",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/laravel/improve-laravel-5-performance-with-aws-sqs/86",
+    "title": {
+      "rendered": "Improve Laravel 5 performance with AWS SQS"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 1,
+    "featured_media": 87,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      6
+    ],
+    "tags": [
+      8,
+      7,
+      9
+    ],
+    "acf": {
+      "short_headline": "Using AWS SQS with Laravel 5",
+      "sell": "Use the power of a Amazon’s scalable queuing system in your Laravel 5 application",
+      "category": {
+        "term_id": 6,
+        "name": "Laravel",
+        "slug": "laravel",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "Posts about Laravel and the Laravel ecosystem",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      "tags": [
+        {
+          "term_id": 7,
+          "name": "PHP",
+          "slug": "php",
+          "term_group": 0,
+          "term_taxonomy_id": 7,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "filter": "raw"
+        },
+        {
+          "term_id": 8,
+          "name": "AWS",
+          "slug": "aws",
+          "term_group": 0,
+          "term_taxonomy_id": 8,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "filter": "raw"
+        },
+        {
+          "term_id": 9,
+          "name": "SQS",
+          "slug": "sqs",
+          "term_group": 0,
+          "term_taxonomy_id": 9,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "filter": "raw"
+        }
+      ],
+      "hero_images": [
+        {
+          "ID": 87,
+          "id": 87,
+          "title": "Using Amazon Web Services Simple Queue Services with Laravel 5",
+          "filename": "using-amazon-web-services-simple-queue-services-with-laravel-5.jpeg",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5.jpeg",
+          "alt": "Using Amazon Web Services Simple Queue Services with Laravel 5",
+          "author": "1",
+          "description": "",
+          "caption": "",
+          "name": "using-amazon-web-services-simple-queue-services-with-laravel-5",
+          "date": "2016-10-03 21:41:49",
+          "modified": "2016-10-03 21:42:07",
+          "mime_type": "image/jpeg",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 1200,
+          "height": 815,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-256x256.jpeg",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-300x204.jpeg",
+            "medium-width": 300,
+            "medium-height": 204,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-768x522.jpeg",
+            "medium_large-width": 768,
+            "medium_large-height": 522,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-1024x695.jpeg",
+            "large-width": 1024,
+            "large-height": 695,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-720x720.jpeg",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-543x815.jpeg",
+            "portrait-width": 543,
+            "portrait-height": 815,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-1200x800.jpeg",
+            "landscape-width": 1200,
+            "landscape-height": 800,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/03214149/using-amazon-web-services-simple-queue-services-with-laravel-5-1200x600.jpeg",
+            "letterbox-width": 1200,
+            "letterbox-height": 600
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "post_icon": {
+        "ID": 105,
+        "id": 105,
+        "title": "Using Amazon Web Services Simple Queue Services with Laravel 5 11",
+        "filename": "using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+        "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+        "alt": "Using Amazon Web Services Simple Queue Services with Laravel 5 11",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "using-amazon-web-services-simple-queue-services-with-laravel-5-12",
+        "date": "2016-10-04 08:56:07",
+        "modified": "2016-10-04 08:56:07",
+        "mime_type": "image/svg+xml",
+        "type": "image",
+        "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+        "width": 0,
+        "height": 0,
+        "sizes": {
+          "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "thumbnail-width": 1,
+          "thumbnail-height": 1,
+          "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "medium-width": 1,
+          "medium-height": 1,
+          "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "medium_large-width": 1,
+          "medium_large-height": 1,
+          "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "large-width": 1,
+          "large-height": 1,
+          "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "square-width": 1,
+          "square-height": 1,
+          "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "portrait-width": 1,
+          "portrait-height": 1,
+          "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "landscape-width": 1,
+          "landscape-height": 1,
+          "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04085607/using-amazon-web-services-simple-queue-services-with-laravel-5-12.svg",
+          "letterbox-width": 1,
+          "letterbox-height": 1
+        }
+      },
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>In this post, we’ll look at why you might use queues, and then have look at how you can get started quickly and cheaply with Amazon’s SQS (simple queue service), on AWS</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "heading",
+          "text": "When you should use a queue",
+          "alignment": "left",
+          "font": "primary",
+          "heading_underline_colour": "",
+          "heading_text_colour": "",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>For the most part, your Laravel 5 web application is responding to HTTP requests. If your app is simple, you’ll probably be doing some simple data manipulation, and then saving that information to a database. As your application grows in complexity, some routes in the system might start doing a decent chunk of work. Things that might take some time include:</p>\n<ul>\n<li>Image processing</li>\n<li>Sending an email</li>\n<li>Communicating with a third party API</li>\n<li>Pushing files to a service like dropbox or S3</li>\n</ul>\n<p>As PHP and PHP executing web servers are generally used synchornously, waiting for all of these to complete before responding to the user’s request could take some time. An example request that uses some of these examples, is uploading a new profile photo:</p>\n<ol>\n<li>Write POST-ed image data to the file system</li>\n<li>Validate the uploaded image size</li>\n<li>Resize the image</li>\n<li>Create a thumbnail version of the image</li>\n<li>Push the resized image to S3</li>\n<li>Push the thumbnail to S3</li>\n<li>Save the S3 URLs to the database</li>\n<li>Respond to the POST request with a success message</li>\n</ol>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 201,
+            "id": 201,
+            "title": "Improve Laravel 5 performance with AWS SQS 1",
+            "filename": "improve-laravel-5-performance-with-aws-sqs-2.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2.jpg",
+            "alt": "Improve Laravel 5 performance with AWS SQS 1",
+            "author": "1",
+            "description": "",
+            "caption": "",
+            "name": "improve-laravel-5-performance-with-aws-sqs-2",
+            "date": "2016-11-04 13:39:15",
+            "modified": "2016-11-04 13:39:36",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 1536,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-300x225.jpg",
+              "medium-width": 300,
+              "medium-height": 225,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-768x576.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 576,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-1024x768.jpg",
+              "large-width": 1024,
+              "large-height": 768,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-1680x1120.jpg",
+              "landscape-width": 1680,
+              "landscape-height": 1120,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133916/improve-laravel-5-performance-with-aws-sqs-2-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>In our initial version of our app. A request to upload an image takes 1.38ms to complete. This is pretty slow for a modern web application, and it also blocks the process thread from working on anything else.</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>In this example, steps 3 – 7 don’t need to have happened before we send the success message.</p>\n<p>If we’ve validated the image size, then we can respond immediately to the user that their upload is “good”. We’ll then let the system handle the resizing and S3 uploads as and when they get to it. If something does go wrong at that point, we can email the user, or send them a notification in the app that something went wrong.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 200,
+            "id": 200,
+            "title": "Improve Laravel 5 performance with AWS SQS",
+            "filename": "improve-laravel-5-performance-with-aws-sqs.jpg",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs.jpg",
+            "alt": "Improve Laravel 5 performance with AWS SQS",
+            "author": "1",
+            "description": "",
+            "caption": "",
+            "name": "improve-laravel-5-performance-with-aws-sqs-3",
+            "date": "2016-11-04 13:39:12",
+            "modified": "2016-11-04 13:43:05",
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 2048,
+            "height": 1536,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-256x256.jpg",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-300x225.jpg",
+              "medium-width": 300,
+              "medium-height": 225,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-768x576.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 576,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-1024x768.jpg",
+              "large-width": 1024,
+              "large-height": 768,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-720x720.jpg",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-720x1080.jpg",
+              "portrait-width": 720,
+              "portrait-height": 1080,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-1680x1120.jpg",
+              "landscape-width": 1680,
+              "landscape-height": 1120,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/10/04133915/improve-laravel-5-performance-with-aws-sqs-1680x840.jpg",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "<p>Using the queue architecture, our app now responds far quicker. We’ve now posted a tiny message to the Amazon SQS queue as JSON. Our application will process these queued instructions later, or perhaps via a worker server.</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "medium",
+          "crop": "original",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": true,
+      "related_limit": "6",
+      "related_lists": false,
+      "related_manual_posts": false,
+      "allow": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/86"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=86"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/86/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/87"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=86"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=86"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "date": "2016-09-08T14:57:16",
+    "date_gmt": "2016-09-08T14:57:16",
+    "guid": {
+      "rendered": "http://shortliststudio.foundry.press/?p=59"
+    },
+    "modified": "2016-11-01T13:11:45",
+    "modified_gmt": "2016-11-01T13:11:45",
+    "slug": "how-we-built-our-polygon-heads",
+    "type": "post",
+    "link": "http://shortliststudio.foundry.press/engineering/how-we-built-our-polygon-heads/59",
+    "title": {
+      "rendered": "How we built our polygon heads"
+    },
+    "content": {
+      "rendered": ""
+    },
+    "excerpt": {
+      "rendered": ""
+    },
+    "author": 35,
+    "featured_media": 69,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "format": "standard",
+    "categories": [
+      13
+    ],
+    "tags": [],
+    "acf": {
+      "short_headline": "How we built our polygon heads",
+      "sell": "With the launch of our shiny new studio site, we’re taking the chance to experiment with ways to introduce the Shortlist digital team.",
+      "category": {
+        "term_id": 13,
+        "name": "Engineering",
+        "slug": "engineering",
+        "term_group": 0,
+        "term_taxonomy_id": 13,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 2,
+        "filter": "raw"
+      },
+      "tags": false,
+      "hero_images": [
+        {
+          "ID": 69,
+          "id": 69,
+          "title": "Something something 3d heads something 1",
+          "filename": "something-something-3d-heads-something-3.png",
+          "url": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3.png",
+          "alt": "Something something 3d heads something 1",
+          "author": "35",
+          "description": "",
+          "caption": "",
+          "name": "something-something-3d-heads-something-3",
+          "date": "2016-09-23 10:47:43",
+          "modified": "2016-10-24 15:30:54",
+          "mime_type": "image/png",
+          "type": "image",
+          "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+          "width": 2048,
+          "height": 2048,
+          "sizes": {
+            "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-256x256.png",
+            "thumbnail-width": 256,
+            "thumbnail-height": 256,
+            "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-300x300.png",
+            "medium-width": 300,
+            "medium-height": 300,
+            "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-768x768.png",
+            "medium_large-width": 768,
+            "medium_large-height": 768,
+            "large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-1024x1024.png",
+            "large-width": 1024,
+            "large-height": 1024,
+            "square": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-720x720.png",
+            "square-width": 720,
+            "square-height": 720,
+            "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-720x1080.png",
+            "portrait-width": 720,
+            "portrait-height": 1080,
+            "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-1680x1120.png",
+            "landscape-width": 1680,
+            "landscape-height": 1120,
+            "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/09/23104812/something-something-3d-heads-something-3-1680x840.png",
+            "letterbox-width": 1680,
+            "letterbox-height": 840
+          }
+        }
+      ],
+      "override_start_time": "",
+      "override_end_time": "",
+      "header_type": "standard-hero",
+      "header_display_headline": true,
+      "header_display_sell": true,
+      "header_display_date": true,
+      "header_display_hero_image": true,
+      "widgets": [
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Early on in the prototyping phase for our new site we were lucky to have the chance to play with a <a href=\"http://structure.io/\" target=\"_blank\">Structure Sensor</a>, a 3D scanning peripheral for iPhone and iPad.</p>\n<p>After hours of mindless scanning we all agreed there couldn’t possibly be any other way of presenting our team than over-stylised, low-poly, interactive 3d models. Right?</p>\n<p>One of the initial scans we produced of our handsome Product Manager Will is embedded below through Sketchfab.\n            </p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "embed",
+          "embed": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75.0019%;\"><iframe src=\"https://sketchfab.com/models/980e803802564591a6600045e216eb29/embed?autostart=0\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen></iframe></div>",
+          "caption": "Product Manager Will Bays as rendered by Sketchfab",
+          "width": "medium",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>We quickly moved onto low-poly prototypes of our heads, attempting some destructive transformations in Meshlab.</p>\n<p>The sharply named Quadratic Edge Collapse Decimation method reduced the polygon count by removing a polygons closest neighbour without affecting the overall shape of the model. By reducing the total number of polygons the model would slowly reduce in complexity and render our desired low-poly look.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 178,
+            "id": 178,
+            "title": "How we built our polygon heads",
+            "filename": "how-we-built-our-polygon-heads-2.png",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2.png",
+            "alt": "How we built our polygon heads",
+            "author": "35",
+            "description": "",
+            "caption": "",
+            "name": "how-we-built-our-polygon-heads-2",
+            "date": "2016-10-24 15:50:42",
+            "modified": "2017-01-10 20:44:30",
+            "mime_type": "image/png",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 1905,
+            "height": 873,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-256x256.png",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-300x137.png",
+              "medium-width": 300,
+              "medium-height": 137,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-768x352.png",
+              "medium_large-width": 768,
+              "medium_large-height": 352,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-1024x469.png",
+              "large-width": 1024,
+              "large-height": 469,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-720x720.png",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-582x873.png",
+              "portrait-width": 582,
+              "portrait-height": 873,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-1310x873.png",
+              "landscape-width": 1310,
+              "landscape-height": 873,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/09/24155043/how-we-built-our-polygon-heads-2-1680x840.png",
+              "letterbox-width": 1680,
+              "letterbox-height": 840
+            }
+          },
+          "caption": "</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "large",
+          "crop": "landscape",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>Unfortunately these models tended to err on the <i>generic</i> side and what started as an attempt to show the different personalities in the team ended up as a collection of personality-less 90’s video game models.</p>\n<p>This is where the professional comes in! Handing over our original scans and some basic 360 degree photos of each subject, we asked a chap named <a href=\"https://cz.linkedin.com/in/petrmilersk\" target=\"_blank\">Petr</a> to transform them into carefully considered low-poly models with hand-crafted textures achieving the look we were after.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "image",
+          "image": {
+            "ID": 127,
+            "id": 127,
+            "title": "Polygon pun. 1",
+            "filename": "polygon-pun-2.png",
+            "url": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2.png",
+            "alt": "Polygon pun. 1",
+            "author": "35",
+            "description": "",
+            "caption": "",
+            "name": "polygon-pun-2",
+            "date": "2016-10-04 18:51:44",
+            "modified": "2016-10-24 15:55:32",
+            "mime_type": "image/png",
+            "type": "image",
+            "icon": "http://shortliststudio.foundry.press/wp-includes/images/media/default.png",
+            "width": 1200,
+            "height": 880,
+            "sizes": {
+              "thumbnail": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-256x256.png",
+              "thumbnail-width": 256,
+              "thumbnail-height": 256,
+              "medium": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-300x220.png",
+              "medium-width": 300,
+              "medium-height": 220,
+              "medium_large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-768x563.png",
+              "medium_large-width": 768,
+              "medium_large-height": 563,
+              "large": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-1024x751.png",
+              "large-width": 1024,
+              "large-height": 751,
+              "square": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-720x720.png",
+              "square-width": 720,
+              "square-height": 720,
+              "portrait": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-587x880.png",
+              "portrait-width": 587,
+              "portrait-height": 880,
+              "landscape": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-1200x800.png",
+              "landscape-width": 1200,
+              "landscape-height": 800,
+              "letterbox": "http://assets.foundry.press/app/uploads/sites/2/2016/09/04185145/polygon-pun-2-1200x600.png",
+              "letterbox-width": 1200,
+              "letterbox-height": 600
+            }
+          },
+          "caption": "<p>Just look at those glasses.</p>\n",
+          "link": "",
+          "open_link_in_new_tab": false,
+          "width": "large",
+          "crop": "landscape",
+          "position": "center",
+          "border": false,
+          "has_mobile_image": false,
+          "mobile_image": false,
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>When it came to implementing the models there were a few things to keep in mind. As the colours were embedded into the model, we had to use the `MeshPhongMaterial`. This allowed us to transfer each polygons face colour from our model onto the vertex colours of the material. Implementing this took a little bit of trial and error, there are enough unique materials, geometries and combinations of both to be quite confusing at times. Shading is an important property, without declaring `THREE.FlatShading` each vertex colour would blend with its closest sibling.</p>\n<p>With those issues tied up, a basic example of the loader and material can be seen below.</p>\n",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "code",
+          "code": "// define loader\r\nconst loaderPly = new THREE.PLYLoader(new THREE.LoadingManager())\r\n// request model\r\nloaderPly.load(this.modelUrl, geometry => {\r\n  // create new material and set texture\r\n  const material = new THREE.MeshPhongMaterial({\r\n    shading: THREE.FlatShading,\r\n    shininess: 20,\r\n    vertexColors: THREE.FaceColors\r\n  })\r\n  // create new mesh from .ply geometry and mesh material\r\n  this.object = new THREE.Mesh(geometry, material)\r\n  // add to scene\r\n  this.scene.add(this.object)\r\n})",
+          "language": "javascript",
+          "hide_widget_from_page": false
+        },
+        {
+          "acf_fc_layout": "paragraph",
+          "paragraph": "<p>We’re really happy with this first implementation of our 3d team, and without really knowing what we’d end up with, that each team member has their own presence and personality is just what we were after. Of course now we have our 3d-heads, we have many, <i>many </i>ideas to build upon.</p>\n<p>As an added bonus, any future members of our digital team here at Shortlist will be presented with their very own low-poly, hand-crafted 3d head. And at the end of the day, I think truly that’s all any of us want out of a job.</p>\n",
+          "hide_widget_from_page": false
+        }
+      ],
+      "share_title": "",
+      "share_description": "",
+      "share_image": false,
+      "twitter_text": "",
+      "related_show": false,
+      "allow": false,
+      "post_icon": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/59"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/users/35"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/comments?post=59"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/posts/59/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media/69"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/media?parent=59"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/categories?post=59"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://shortliststudio.foundry.press/wp-json/wp/v2/tags?post=59"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
