@@ -16,7 +16,7 @@ class HeroImages extends React.Component {
     axios.get(`../../dummydata.json?=acf`)
       .then(res => {
         const images = res.data.data.children.map(obj => obj.data);
-        this.setState({ posts });
+        this.setState({ images });
       });
   }
 
