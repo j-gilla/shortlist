@@ -1,20 +1,14 @@
-import React from 'react';
-import axios from 'axios';
-// import HeroImages from './HeroImages';
+import React, { Component } from 'react';
+import HeroImages from './HeroImages.jsx';
 
 class App extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
-
 
   render() {
     return (
       <div>
         <h1>Shortlist Studio</h1>
         <h4>Hero Images</h4>
-        {/* <HeroImages /> */}
+        <HeroImages />
       </div>
     );
   }
