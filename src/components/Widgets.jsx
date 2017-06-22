@@ -13,8 +13,9 @@ class Widgets extends React.Component {
     axios.get(`../../dummydata.json`)
     .then(res => {
       const data = {}
-      data.onePara = res.data[0].acf.widgets[0].paragraph;
-      data.twoPara = res.data[0].acf.widgets[3].paragraph;
+      // data.onePara = res.data[0].acf.widgets[0].paragraph;
+      // data.twoPara = res.data[0].acf.widgets[3].paragraph;
+      data.threePara = res.data[0].acf.widgets[4].caption;
       this.setState({ data });
       console.log(data);
     })
@@ -26,8 +27,9 @@ class Widgets extends React.Component {
   render() {
     return (
       <div>
-        {this.state.data.onePara} <br /> 
-        {this.state.data.twoPara}
+        {/* {this.state.data.onePara} <br />
+        {this.state.data.twoPara} <br />  */}
+        {/* {this.state.data.threePara} */}
       </div>
     );
   }
