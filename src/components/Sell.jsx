@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-class HeroImages extends React.Component {
+class Sell extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -25,10 +25,10 @@ class HeroImages extends React.Component {
   render() {
     return (
       <div>
-        <img src={this.state.data.sell} />
+        {this.state.data.sell}
       </div>
     );
   }
 }
 
-export default HeroImages;
+export default Sell;
