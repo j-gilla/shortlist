@@ -19,10 +19,12 @@ class App extends React.Component {
         <Title />
         <Date />
         <Author />
-        <Sell />
         <Category />
-        <Widgets />
+        <Sell />
         <HeroImages />
+
+        <Widgets />
+
       </div>
     );
   }
