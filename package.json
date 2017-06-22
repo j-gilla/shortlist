@@ -6,7 +6,6 @@
   "scripts": {
     "start": "webpack-dev-server",
     "test": "chai-enzyme",
-    "lint": "eslint"
   },
   "repository": {
     "type": "git",
